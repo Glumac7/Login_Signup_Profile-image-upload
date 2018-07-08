@@ -31,6 +31,6 @@ What things you need to install and how to install them
 9. With your server running, go to localhost/<the name of the file you created earlier>/index.php
 10. Enjoy!!!
 ```
-### Any questions?
+## Any questions?
 
 Visit my personal website: [nemanjaglumicic.tk](https://nemanjaglumicic.tk/)
