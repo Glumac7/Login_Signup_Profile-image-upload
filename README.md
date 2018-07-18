@@ -17,7 +17,7 @@ What things you need to install and how to install them
 4. Paste the downloaded files in that folder.
 5. Run your server
 6. Go to localhost/phpmyadmin(127.0.0.1/phpmyadmin).
-7. Make a new Data Base named "login".
+7. Make a new Data Base.
 8. Enter your database, click the SQL button, paste the code below and click go:
    CREATE TABLE myguests
    (
@@ -33,4 +33,4 @@ What things you need to install and how to install them
 ```
 ## Any questions?
 
-Visit my personal website: [nemanjaglumicic.tk](https://nemanjaglumicic.tk/)
+Visit my personal website: [nemanjaglumicic.tk](https://glumac7.github.io/)
